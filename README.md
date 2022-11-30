@@ -22,11 +22,11 @@ REQUISITOS OPCIONALES:
 DESCRIPCION DE MI PROYECTO 📋
 
 En la web encontrarás las siguientes secciones: 🔧
-1.	
-2.	
-3.	
-4.	
-5.	 
+  1.	
+  2.	
+  3.	
+  4.	
+  5.	 
 
 construido con  🛠️
 
@@ -35,7 +35,9 @@ Para este proyecto se ha utilizado:
 •	CCS
 •	GitHub (Para su entrega)
 
+
 Autores  ✒️
+
 Rebeca Dalila Méndez Villegas
 
 
