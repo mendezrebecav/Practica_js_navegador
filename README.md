@@ -1,7 +1,7 @@
 # Practica_js_navegador
 Práctica para KeepCoding-BC-Glovo-Mujeres-en-tech
 
-                                                        `#0969DA`Comenzando   🚀
+                                                       Comenzando   🚀
                                                       
 
 NOMBRE DE LA PRÁCTICA: **Control de gastos**
