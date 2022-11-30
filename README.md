@@ -1,10 +1,10 @@
 # Practica_js_navegador
 Práctica para KeepCoding-BC-Glovo-Mujeres-en-tech
 
-                                                         Comenzando   🚀
+                                                        `#0969DA`Comenzando   🚀
                                                       
 
-NOMBRE DE LA PRÁCTICA: Control de gastos
+NOMBRE DE LA PRÁCTICA: **Control de gastos**
 
 EN QUE CONSISTE: Necesitamos desarrollar una web que nos ayude a gestionar nuestros ingresos y gastos, con el objetivo de conocer el dinero que tenenos ahorrado.
 
