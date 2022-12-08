@@ -31,10 +31,10 @@ En la web encontrarás las siguientes secciones: 🔧
 construido con  🛠️
 
 Para este proyecto se ha utilizado:
-•	HTML 
-•	CCS
-•	JS
-•	GitHub (Para su entrega)
+  •	HTML 
+  •	CCS
+  •	JS
+  •	GitHub (Para su entrega)
 
 
 Autores  ✒️
