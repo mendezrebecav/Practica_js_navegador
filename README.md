@@ -33,6 +33,7 @@ construido con  🛠️
 Para este proyecto se ha utilizado:
 •	HTML 
 •	CCS
+•	JS
 •	GitHub (Para su entrega)
 
 
