@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control de gastos</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="index.css">
+    <img src="/imagenes/pic.png" id="pic">
+</head>
+<body>
+    <h1><strong><ins>Control de gastos</ins></strong> </h1>
+
+    <section id="ahorro">
+        <h2>Tus ahorros</h2>
+        <p id="ahorro_almacenado">0.00€</p>
+    </section>
+
+    <section id="ingresos">
+        <div id="id_ingresos">
+            <h3>Ingresos</h3>
+            <p id="id_ingresos_almacenados">0.00€</p>
+        </div>
+        <div id="gastos">
+            <h3>Gastos</h3>
+            <p id="id_gastos">0.00€</p>
+        </div>
+    </section>
+
+    <section id="id_historial">
+        <h2>Historial</h2>
+        <hr>
+        <div>
+            <ul id="id_historial_almacenado">
+            </ul>
+        </div>
+    </section>
+
+    <section id="transaccion">
+        <h2>Nueva transacción</h2>
+        <hr>
+        <form novalidate id="id_transaccion" >
+            <label for="concept" class="concepto">Concepto: </label>
+            <input type="text" name="concept" id="concept" placeholder="Nombre del concepto">
+            <label for="number" class="cantidad">Cantidad: </label>
+            <input type="number" name="cantidad" id="amount" placeholder="Añade cantidad">
+            <button type="submit" class="nueva_transaccion">Añadir transacción</button>
+        </form>
+    </section>
+    <script src="index.js"></script>
+</body>
+</html>
